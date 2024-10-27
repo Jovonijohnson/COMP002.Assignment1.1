@@ -45,3 +45,4 @@ console.log(1 + 2 > 5 || 1 * 10 > 5)
 let num = "12";
 let result = num * 3;
 console.log(result);
+
